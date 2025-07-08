@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
-    <title>Document</title>
+    <title>Probando laravel</title>
 </head>
-<body>
+<body class="bg-cyan-950 text-amber-700">
     <a href="/">Inicio</a>    |
     <a href="/suma">Suma</a>    |
-    <a href="/inicio">Inicio 2</a>
+    <a href="/productos">Productos</a>
     <br>
 
     @yield('content')
