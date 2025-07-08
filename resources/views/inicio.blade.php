@@ -3,5 +3,5 @@
 
     <!-- este conido se mostrara donde este el "@yiel('content') en el template app (el yield debe tener el mismo nombre, osea "content") -->
     @section('content')
-    <h1>Esta es la pagina por defecto, bienvenido</h1>
+    <h1>bienvenidos a laravel 12</h1>
     @endsection
