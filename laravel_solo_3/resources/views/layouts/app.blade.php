@@ -10,7 +10,7 @@
 </head>
 <body class="bg-dark text-white d-flex flex-column align-items-center p-3">
     <div >
-        <a href="/">Incio</a> |
+        <a href="/">Inicio</a> |
         <a href="/suma">Suma</a> |
         <a href="/productos">Productos</a>
     </div>
